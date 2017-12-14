@@ -1,2 +1,2 @@
 # hello-world
-Honoring Tradition
+Honoring Tradition when creating first repository
